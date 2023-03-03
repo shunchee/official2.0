@@ -1,0 +1,126 @@
+{	
+"title" : "マンガでわかるシュンチー‼︎",
+"items":
+	[	
+		{
+				"url" : "./img/blank_square.png",
+				"age" : "0",
+				"sub_title" : "〜誕生！！〜",
+				"text" : "<p><span>シュンチーが生まれたよ！！</span><br><span>残念ながら前世と</span><span>産まれる前の記憶は</span><span>持ってないよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "2",
+			"sub_title" : "〜迷子になったよ！！〜",
+			"text" : "<p><span>シュンパパがすごく怒ったみたいだけど、</span><span>シュンチーは平然としてたらしいよ！！</span><br></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "5",
+			"sub_title" : "〜誰でも1度は通る道〜！！〜",
+			"text" : "<p><span>幼稚園を脱走しようとしたよ！！</span><span>めっちゃ怒られたけど、誰もが通る道だとシュンチーは思ってるよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "7",
+			"sub_title" : "〜初めての大怪我！！〜",
+			"text" : "<p><span>頭を強打して6針も縫ったよ！！</span><br><span>しかし！！</span><span>&emsp;そのおかげで頭が良くなったーーーー！！</span><br><span>っていう展開は無かったよ、、、</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "8",
+			"sub_title" : "〜図工の時間に歌う〜",
+			"text" : "<p><span>小学校の図工の時間に急に歌い出したよ！！</span><span>この頃あたりから、周りのシュンチーを見る目が変わってきたよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "11",
+			"sub_title" : "〜謎の体調不良〜",
+			"text" : "<p><span>ここから5年間ぐらい、突発的に吐き気が起きる謎の症状に苦しめられたよ！！</span><span>勝手に治ったけど、今でも原因不明だよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "16",
+			"sub_title" : "〜高校進学〜",
+			"text" : "<p><span>高校に入ったよ！！</span><span>たった1年で自主退学したよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "17",
+			"sub_title" : "〜高校進学　パート2〜",
+			"text" : "<p><span>違う高校に入ったよ！！</span><span>きちんと1年生からやり直しだよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "18",
+			"sub_title" : "〜ご迷惑をおかけしました〜",
+			"text" : "<p><span>停学を2回もしてしまったよ！！</span><span>もう後が無いよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "19",
+			"sub_title" : "〜大学進学〜",
+			"text" : "<p><span>東京学芸大学に進学したよ！！</span><span>音楽を始めたよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "21",
+			"sub_title" : "〜マイケル入学〜",
+			"text" : "<p><span>本当に出会えて良かったよ！！</span><span>そしてCadiluck Bunnyというバンドが始まったよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "23",
+			"sub_title" : "〜左遷〜",
+			"text" : "<p><span>卒論のために宇宙科学研究所(JAXA相模原キャンパス)という所に通わされたよ！！</span><span>当時は左遷されたーって思ったよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜順風満帆〜",
+			"text" : "<p><span>メジャーレーベルでレコーディング！！</span><span>ここら辺から正確な年代は覚えていないよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜順風満帆　パート2〜",
+			"text" : "<p><span>番組作って動画配信もしたよ！！</span><span>びっくりドッキリシュンチーというのがここで誕生したよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜休眠〜",
+			"text" : "<p><span>バンドがおやすみなさいしたよ！！</span><span>きちんと起きる予定だよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜Instagram〜",
+			"text" : "<p><span>Instagramでびっくりドッキリシュンチーを始めたよ！！</span><span>シュンチーの才能の一部が発揮されたよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜講師〜",
+			"text" : "<p><span>どういう訳だか、お絵描きワークショップ講師のオファーがきたよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜シュンP〜",
+			"text" : "<p><span>シュンPというバンドを新しく始めたよ！！</span><br><span>忙しいよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "?",
+			"sub_title" : "〜シュンチーショップ〜",
+			"text" : "<p><span>シュンチーショップを新しく始めたよ！！</span><br><span>忙しいよ！！</span></p>"
+		},
+		{
+			"url" : "./img/blank_square.png",
+			"age" : "今",
+			"sub_title" : "〜これからもシュンチーだよ〜",
+			"text" : "<p><span>色々あったけど今を生きてるよ！！</span><span>それなりにみんなに愛されてる気がするよ!!</span><span>嫌なことや悩みごとがあったら</span><span>シュンチーがいいよ！！強いよ！！</span></p>"
+		}
+	]
+}

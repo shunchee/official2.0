@@ -1,0 +1,25 @@
+{	
+	"items":[	
+	{
+		"url" : "./img/hero_bg_n0-min.webp"
+	},
+	{
+		"url" : "./img/hero_bg_n1-min.webp"
+	},
+	{
+		"url" : "./img/hero_bg_n2-min.webp"
+	},
+	{
+		"url" : "./img/hero_bg_n3-min.webp"
+	},
+	{
+		"url" : "./img/hero_bg_n4-min.webp"
+	},
+	{
+		"url" : "./img/hero_bg_n5-min.webp"
+	},
+	{
+		"url" : "./img/hero_bg_n6-min.webp"
+	}
+	]
+}
