@@ -1,0 +1,17 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-131.28,-138.878)">
+        <g id="ico_fb2" transform="matrix(1,0,0,1,123.28,-132.122)">
+            <rect x="8" y="271" width="100" height="100" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="8" y="271" width="100" height="100"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="ico_FB2" transform="matrix(0.223214,0,0,0.223214,58,321)">
+                    <g transform="matrix(1,0,0,1,-224,-224)">
+                        <path d="M239.142,448L239.142,274.758L180.902,274.758L180.902,206.931L239.142,206.931L239.142,157.024C239.142,99.008 274.49,67.648 326.099,67.648C343.517,67.572 360.927,68.472 378.246,70.336L378.246,130.816L342.675,130.816C314.586,130.816 309.12,144.166 309.12,163.744L309.12,206.931L376.32,206.931L367.36,274.758L309.12,274.758L309.12,448L400,448C426.332,448 448,426.332 448,400L448,48C448,21.668 426.332,0 400,0L48,0C21.668,0 0,21.668 0,48L0,400C0,426.332 21.668,448 48,448L239.142,448Z" style="fill:rgb(0,4,255);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

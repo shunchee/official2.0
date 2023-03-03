@@ -1,0 +1,31 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-487,-279)">
+        <g id="ico_nft_line" transform="matrix(0.625,0,0,0.625,487,279)">
+            <rect x="0" y="0" width="160" height="160" style="fill:none;"/>
+            <g transform="matrix(1.6,0,0,1.6,-779.2,-446.4)">
+                <path d="M587,304C587,290.202 575.798,279 562,279L512,279C498.202,279 487,290.202 487,304L487,354C487,367.798 498.202,379 512,379L562,379C575.798,379 587,367.798 587,354L587,304Z" style="fill:rgb(6,199,85);"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-779.2,-446.4)">
+                <path d="M495,295L495,327L515,327L515,319L503,319L503,295L495,295Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-779.2,-446.4)">
+                <rect x="519" y="295" width="8" height="32" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-779.2,-446.4)">
+                <path d="M531,295L531,327L539,327L539,311.397L547,327L555,327L555,295L547,295L547,311L539,295L531,295Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-779.2,-446.4)">
+                <path d="M559,295L559,327L579,327L579,319L567,319L567,315L579,315L579,307L567,307L567,303L579,303L579,295L559,295Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-785.6,-446.4)">
+                <path d="M503,343L503,363L511,363L511,343L503,343ZM511,335L511,343L519,343L519,363L527,363L527,335L511,335Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-785.6,-446.4)">
+                <path d="M531,335L531,363L539,363L539,355L551,355L551,347L539,347L539,343L551,343L551,335L531,335Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.6,0,0,1.6,-785.6,-446.4)">
+                <path d="M555,335L555,343L563,343L563,363L571,363L571,343L579,343L579,335L555,335Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

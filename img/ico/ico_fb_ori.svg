@@ -1,0 +1,23 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-266.333)">
+        <g id="ico_fb_ori" transform="matrix(1,0,0,1,-8,-4.66667)">
+            <rect x="8" y="271" width="100" height="100" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="8" y="271" width="100" height="100"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,-479,-8)">
+                    <path d="M587,304C587,290.202 575.798,279 562,279L512,279C498.202,279 487,290.202 487,304L487,354C487,367.798 498.202,379 512,379L562,379C575.798,379 587,367.798 587,354L587,304Z" style="fill:rgb(253,249,255);"/>
+                    <clipPath id="_clip2">
+                        <path d="M587,304C587,290.202 575.798,279 562,279L512,279C498.202,279 487,290.202 487,304L487,354C487,367.798 498.202,379 512,379L562,379C575.798,379 587,367.798 587,354L587,304Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(1,0,0,1,487,279)">
+                            <path d="M94.48,0L5.48,0C2.467,0.022 -0,2.507 0,5.52L0,94.52C0.022,97.533 2.507,100 5.52,100L53.42,100L53.42,61.33L40.42,61.33L40.42,46.19L53.42,46.19L53.42,35.05C53.42,22.14 61.31,15.1 72.83,15.1C76.718,15.083 80.604,15.284 84.47,15.7L84.47,29.2L76.53,29.2C70.26,29.2 69.04,32.2 69.04,36.55L69.04,46.19L84,46.19L82,61.33L69,61.33L69,100L94.48,100C97.508,100 100,97.508 100,94.48L100,5.48C99.978,2.467 97.493,-0 94.48,0Z" style="fill:rgb(66,103,178);fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

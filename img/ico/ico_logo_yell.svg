@@ -1,0 +1,29 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="L_1_origin" transform="matrix(0.319313,0,0,0.319313,20.91,4.75123)">
+        <ellipse cx="160.25" cy="220.248" rx="0.25" ry="0.248" style="fill:none;"/>
+    </g>
+    <g id="logo">
+        <path id="L_1" d="M76.815,28.645C70.038,28.916 62.871,26.909 57.548,23.263C52.225,19.616 48.747,14.329 49.349,8.039" style="fill:none;stroke:rgb(255,254,0);stroke-width:8px;"/>
+        <path id="L_11" serif:id="L_1" d="M39.74,44.25C41.014,44.737 43.561,45.71 43.124,46.946C37.017,64.229 21.925,64.401 21.951,78.627C21.964,85.343 29.833,91.859 40.365,91.958C50.108,92.049 61.027,90.259 69.513,79.811C76.804,70.834 80.008,60.113 76.815,46.779" style="fill:none;stroke:rgb(255,254,0);stroke-width:8px;"/>
+        <path id="L_12" serif:id="L_1" d="M54.818,89.783C51.026,79.962 49.349,72.821 47.111,62.76L63.048,60.164L63.048,85.853L54.818,89.783Z" style="fill:none;stroke:rgb(255,254,0);stroke-width:8px;"/>
+        <path id="L_13" serif:id="L_1" d="M65.632,38.813C58.87,39.029 52.765,37.898 47.87,35.761C42.975,33.624 39.291,30.483 37.372,26.679" style="fill:none;stroke:rgb(255,254,0);stroke-width:8px;"/>
+    </g>
+		<style>
+	#logo{
+	transform-origin:calc(100% * 72/100) calc(100% * 75/100);
+	animation: rotate 1s;
+   animation-iteration-count: infinite;
+	animation-name: rotate;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	}
+	@keyframes rotate {
+	0% { transform: rotate(0deg); }
+	10% { transform: rotate(-6deg); }
+	20% { transform: rotate(0deg); }
+	30% { transform: rotate(-6deg); }
+	50%{ transform: rotate(0deg);}
+	100% { transform: rotate(0deg); } 
+	}</style>
+</svg>
