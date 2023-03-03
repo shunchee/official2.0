@@ -1,0 +1,58 @@
+@font-face {
+  font-family:"subMochiy Pop One";
+  src: url("../subfonts/MochiyPopOne-sub.woff2") format("woff2");
+}
+@font-face {
+  font-family:"subM PLUS 1p";
+  src: url("../subfonts/MPLUS1p-Black-sub.woff2") format("woff2");
+  font-weight: black;
+  font-style:normal;
+  }
+@font-face {
+  font-family:"subM PLUS 1p";
+  src: url("../subfonts/MPLUS1p-Bold-sub.woff2") format("woff2");
+  font-weight: bold;
+  font-style:normal;
+}
+@font-face {
+  font-family:"subM PLUS 1p";
+  src: url("../subfonts/MPLUS1p-Medium-sub.woff2") format("woff2");
+  font-weight: normal;
+  font-style:normal;
+}
+@font-face {
+  font-family:"subM PLUS Rounded 1c";
+  src: url("../subfonts/MPLUSRounded1c-Medium-sub.woff2") format("woff2");
+}
+@font-face {
+  font-family:"subYusei Magic";
+  src: url("../subfonts/YuseiMagic-Regular-sub.woff2") format("woff2");
+}
+@font-face {
+  font-family:"subUnkempt";
+  src: url("../subfonts/Unkempt-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family:"subDela Gothic One";
+  src: url("../subfonts/DelaGothicOne-Regular-sub.woff2") format("woff2");
+}
+@font-face {
+  font-family:"subNoto Sans JP";
+  src: url("../subfonts/NotoSansJP-Black-sub.woff2") format("woff2");
+}
+
+:root{
+	--mochi_font:"subMochiy Pop One";
+	--bold_font:"subNoto Sans JP";
+	--en_font:"subUnkempt";
+	--maru_font:"subM PLUS Rounded 1c";
+	--yusei_font:"subYusei Magic";
+	--dela_font:"subDela Gothic One";
+	--basic_font:"subM PLUS 1p";
+}
+
+.dela_font{font-family:var(--dela_font)}
+.pop_font{font-family:var(--mochi_font)}
+.en_font{font-family:var(--en_font)}
+.biz_font{font-family:var(--biz_font)}
+.maru_font{font-family:var(--maru_font)}

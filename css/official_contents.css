@@ -1,0 +1,90 @@
+@import url("header-footer.css");
+@import url("top.css");
+@import url("manga.css");
+@import url("marquee.css");
+
+/*****************************************
+問い合わせフォーム
+*******************************************/
+
+input[type="submit"]{cursor:pointer;}
+input::placeholder,textarea::placeholder{color:#ccc;font-size: 15px;}
+
+#contact{
+	display:grid;
+	grid-auto-flow:row;
+	background:#ffd;
+	padding:2rem 1rem;
+	align-items:center;
+	text-align:center;
+	width:100%;
+	height:auto;
+	font-size:15px;
+}
+#contact .headline{
+	font-size: clamp(1.6rem,6vw,3rem);
+}
+#contact p span{
+	display:inline-block;
+}
+.contact_field{
+	margin:1em auto;
+	display:block;
+	max-width: 900px;
+}
+.contact_field p{
+	text-align:left;
+}
+.contact_field p::after{
+	content:"*";
+	margin-left:.5em ;
+	color:#f00;
+}
+.contact_input{
+	background:none;
+	width: 100%;
+	height: 32px;
+	border-style:none;
+	border-bottom: .2em solid #aaa;
+	border-radius: 0;
+	padding-left: 12px;
+	padding-right: 12px;
+	box-shadow: none;
+	margin-bottom: 1.5em;
+	font-size: 15px;
+}	
+.contact_textarea{
+	font-family:sans-serif;
+	border: .2em solid #aaa;
+	border-radius: 0;
+	width: 100%;
+	height:10em;
+	padding: 0.5em 1em;
+	margin: 1em auto;
+	font-size: 15px;
+}
+.contact_submit{
+	bottom:0;
+	-webkit-appearance:none; 
+	appearance :none;
+	width: auto;
+	height: 32px;
+	color: #fff;
+	border-radius: 0px;
+	background: #202;
+	border: 1px solid #ddd;
+	font-size: 15px;
+}
+	
+
+/********
+*********************************************
+ニュースレター
+**********************************************************/	
+#news_letter{background:var(--yellow);padding:3%;align-items:center;text-align:center;width:100%;height:auto;}
+#news_letter p{color:#202;font-size:10px;}
+.mailMagazineSubscribe_field{margin:2px auto 10px;display:flex;justify-content:space-between;max-width:300px;}	
+.mailMagazineSubscribe_confirm{margin:3%;color:#202;font-size:12px;}		
+.mailMagazineSubscribe_input{background:none;width: 80%;height: 32px;border-style:none;border-bottom: 2px solid #202;border-radius: 0;padding-left: 12px;padding-right: 12px;font-size:12px;box-shadow: none;}	
+.mailMagazineSubscribe_submit{-webkit-appearance:none; appearance :none;width: 18%;height: 32px;color: #fff;border-radius: 0px;background: #202;font-size:12px;font-weight:500;border: 1px solid #ddd;}
+

@@ -1,0 +1,18 @@
+/********************************************************
+marquee
+**********************************************************************/
+:root{
+	--bnrHeight:80px;
+	--bnrWidth:calc(var(--bnrHeight)*40);		
+}
+
+.bnr {padding:0;margin:0 auto;width: 100%; overflow: hidden;background-color:#000;}
+.marquee { width: var(--bnrWidth); white-space: nowrap; animation-name: marquee; animation-duration: 30s; animation-timing-function: linear; animation-iteration-count: infinite;}
+
+@keyframes marquee {
+    from    { transform: translate(0%); } 
+    100%,to { transform: translate(calc(var(--bnrHeight) * -40)); }
+}
+@media screen and (max-width:768px){
+	.marquee{animation-duration: 45s;}
+}

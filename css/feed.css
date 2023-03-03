@@ -1,0 +1,16 @@
+#insta ul {display: flex;flex-wrap: wrap;}
+#insta li {list-style: none;width: 20%;}
+#insta img {max-width: 100%;height: auto;display: block;}
+#insta li a {position: relative;display: block;}
+#insta li a .like {position: absolute;width: 100%;height: 100%;left: 0;top: 0;display: flex;align-items: center;justify-content: center;font-size: 40px;color: #fff;opacity: 0;text-shadow: 0 0 7px #000;}
+#insta h1 {text-align: center;font-size: 30px;font-weight:bold;padding: 30px;color:#333;}
+
+@media screen and (max-width:1024px){
+	#insta li {list-style: none;width: 25%;}
+}
+@media screen and (max-width:899px){
+	#insta li {list-style: none;width: 33.3333%;}
+}
+@media screen and (max-width:599px){
+	#insta li {list-style: none;width: 50%;}
+}

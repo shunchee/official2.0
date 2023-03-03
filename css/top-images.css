@@ -1,0 +1,126 @@
+/*****************************************
+アイコン
+*******************************************/
+.icon_home{background:url("../img/ico/ico_home.svg") no-repeat;}
+.icon_shop{background:url("../img/ico/ico_shop_clr.svg") no-repeat;}
+.icon_nft{background:url("../img/ico/ico_nft_clr.svg") no-repeat;}
+.icon_music{background:url("../img/ico/ico_music_clr.svg") no-repeat;}
+.icon_about{background:url("../img/ico/ico_bio_clr.svg") no-repeat;}
+.icon_contact{background:url("../img/ico/ico_mail_clr.svg") no-repeat;}
+
+.icon_all{background:url("../img/ico/ico_all.svg") no-repeat;}
+.icon_art{background:url("../img/ico/ico_art.svg") no-repeat;}
+.icon_daily{background:url("../img/ico/ico_daily.svg") no-repeat;}
+.icon_fasion{background:url("../img/ico/ico_fasion.svg") no-repeat;}
+
+.icon_nft_line{background:url("../img/ico/ico_nft_line.svg") no-repeat;}
+.icon_nft_sea{background:url("../img/ico/ico_nft_sea.svg") no-repeat;}
+.icon_nft_insta{background:url("../img/ico/ico_insta_color.svg") no-repeat;}
+.icon_music_apple{background:url("../img/ico/ico_music_apple.svg") no-repeat;}
+.icon_music_spotify{background:url("../img/ico/ico_music_spotify.svg") no-repeat;}
+
+.icon_fb{background:url("../img/ico/ico_fb_mono.svg") no-repeat;}
+.icon_twt{background:url("../img/ico/ico_twitter_mono.svg") no-repeat;}
+.icon_insta{background:url("../img/ico/ico_insta_mono.svg") no-repeat;}
+.icon_line{background:url("../img/ico/ico_line_mono.svg") no-repeat;}
+.icon_yt{background:url("../img/ico/ico_yt_mono.svg") no-repeat;}
+.icon_base{background:url("../img/ico/ico_base.svg") no-repeat;}
+.icon_menu{background:url("../img/ico/ico_menu_v3.svg") no-repeat;}
+.icon_menu.active{background:url("../img/ico/ico_menu_close.svg") no-repeat;}
+.icon_close{background:url("../img/ico/ico_close.svg") no-repeat;}
+
+.icon_arrow{background:url("../img/ico/ico_arrow.svg") no-repeat center/cover;}
+.icon_favicon{background:url("../img/ico/ico_favicon.svg") no-repeat center/cover;}
+
+/*********************************************
+Logo
+********************************************/
+.logo_btn{position: relative;cursor:pointer;z-index:9999;background: url("../img/ico/ico_logo_magenda.svg") no-repeat center/cover;aspect-ratio:1;}
+
+@media (min-width:768px){
+.logo_btn{width:160px;background:url("../img/logo/logo_official00.svg") center/cover no-repeat;aspect-ratio:1000/367;}
+}
+
+
+/*********************************************
+blank
+********************************************/
+.blank-img{background:url("../img/blank.svg") center/cover no-repeat;position: relative;}
+
+/*****************************************
+ヒーロー
+*******************************************/
+#hero{background:url("../img/hero_bg6-min.jpg") no-repeat center/cover #fff;}
+#hero_bottom{background: url("../img/base_hero_bottom02.svg") no-repeat center/cover;}
+#sun{background: url("../img/top_sun.png") no-repeat center/cover;}
+#cloud{background: url("../img/top_cloud.png") no-repeat center/cover;}
+
+.catch1{background:url("../img/top_catch1.svg") no-repeat center/cover;}
+.catch2{background:url("../img/top_catch2.svg") no-repeat center/cover;}
+.catch3{background:url("../img/top_catch3.svg") no-repeat center/cover;}
+
+#hero_shun{background: url("../img/top_shun.svg") no-repeat center/cover;}
+/*********************************************
+post_card
+********************************************/
+#post_hero{background:url("../img/base_post_bg00.svg") no-repeat center/cover;}
+#post_title{background:url("../img/title_post_bg00.svg") no-repeat center/cover;}
+#post_shun{background:url("../img/base_post_shun.svg") no-repeat center/cover;}
+#post_frame01{background:url("../img/base_post_frame01-min.png") no-repeat center/cover;}
+#post_frame02{background:url("../img/base_post_frame02-min.png") no-repeat center/cover;}
+#post_front{background:url("../img/base_post_front.svg") no-repeat center/cover;}
+.size_feel_img{background:url("../img/art_size.svg") no-repeat center/cover #ccc;}
+#title_ico{background:url("../img/ico/ico_art.svg") no-repeat center/cover;}
+.card1{background:url("../img/base_post_sample01-min.webp") no-repeat center/cover;}
+.card2{background:url("../img/base_post_sample02-min.webp") no-repeat center/cover;}
+.card3{background:url("../img/base_post_sample03-min.webp") no-repeat center/cover;}
+.card4{background:url("../img/base_post_sample04-min.webp") no-repeat center/cover;}
+#post_intro_img01{background:url("../img/base_post_intro01-min.png") no-repeat center/cover;}
+#post_intro_img02{background:url("../img/base_post_intro02-min.png") no-repeat center/cover;}
+#post_look01_img{background:url("../img/base_post_look01-min.png") no-repeat center/cover;}
+#post_look02_img{background:url("../img/base_post_look02-min.png") no-repeat center/cover;}
+#post_material01{background:url("../img/base_material_bg-min.webp") no-repeat center/cover;}
+#post_material02{background:url("../img/base_material_bg02.svg") no-repeat center/cover;}
+#post_material03{background:url("../img/base_material_bg03.svg") no-repeat center/cover;}
+#post_print02{background:url("../img/base_post_print_bg.svg") no-repeat center/cover;}
+#post_print03_img{background:url("../img/top_art_shun.svg") no-repeat center/cover}
+#post_certi_img{background:url("../img/post_certi.png") no-repeat center/cover;}
+/*********************************************
+fasion
+********************************************/
+#fasion_hero{background:url("../img/base_fasion_bg01.svg") no-repeat center/cover;}
+#fasion_curtainL{background:url("../img/fasion_curtain_L_noRatio.svg") no-repeat center/contain;}
+#fasion_curtainR{background:url("../img/fasion_curtain_R_noRatio.svg") no-repeat center/contain;}
+#fasion_title{background:url("../img/title_fasion_bg00.svg") no-repeat center/cover;}
+#fasion_shun{background:url("../img/base_fasion_manekin.webp") no-repeat center/cover;}
+#fasion_mcl01{background:url("../img/base_fasion_mcl01.svg") no-repeat center/cover;}
+#fasion_mcl02{background:url("../img/base_fasion_mcl02.svg") no-repeat center/cover;}
+
+#fasion_cloth{background:url("../img/base_fasion_cloth-min.png") no-repeat center/cover #ccc;}
+/*********************************************
+daily
+********************************************/
+#daily_hero{background:url("../img/base_daily_bg.svg") no-repeat center/cover;}
+#daily_title{background:url("../img/title_daily_bg00.svg") no-repeat center/cover;}
+#daily_shun01{background:url("../img/base_daily_shun01.svg") no-repeat center/cover;}
+#daily_shun02{background:url("../img/base_daily_shun02.svg") no-repeat center/cover;}
+#daily_shun03{background:url("../img/base_daily_shun03-2.svg") no-repeat center/cover;}
+#daily_mcl01{background:url("../img/base_daily_mcl01.svg") no-repeat center/cover;}
+#daily_mcl02{background:url("../img/base_daily_mcl02.svg") no-repeat center/cover;}
+#daily_mcl03{background:url("../img/base_daily_mcl03.svg") no-repeat center/cover;}
+#daily_cusion{background:url("../img/base_daily_cusion-min.webp") no-repeat center/cover;}
+#daily_bag{background:url("../img/base_daily_bag-min.webp") no-repeat center/cover;}
+
+/*********************************************
+cate_all
+********************************************/
+#all_hero {background:url("../img/hero_bg2-min.jpg") no-repeat center/cover;}
+
+/*********************************************
+search_form
+********************************************/
+#search_pop_img{background:url("../img/parapara_img.gif") no-repeat center/cover;}
+/*********************************************
+no_item
+********************************************/
+#no_item_bg{background:url("../img/error_no_item.png") no-repeat center/cover;}
