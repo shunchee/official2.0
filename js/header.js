@@ -56,7 +56,7 @@ window.addEventListener('load',function(){
 	mediaQueryList.addEventListener("change", listener);
 	listener(mediaQueryList);
 	
-	console.log('all contents loaded');
+	console.log('header loaded');
 	
 		let startPos = 0,winScrollTop = 0;
 	const headerHeight = header.clientHeight;
