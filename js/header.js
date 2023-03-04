@@ -57,4 +57,22 @@ window.addEventListener('load',function(){
 	listener(mediaQueryList);
 	
 	console.log('all contents loaded');
+	
+		let startPos = 0,winScrollTop = 0;
+	const headerHeight = header.clientHeight;
+	window.addEventListener('scroll',function(){
+		winScrollTop=this.scrollY;
+		if(winScrollTop >= startPos){
+			if(winScrollTop >= headerHeight){
+				header.classList.add("hide_header");
+				console.log('header hidden');
+			}
+		}else{
+			header.classList.remove("hide_header");
+
+			closeNav();
+			console.log('header visible');
+		}
+		startPos = winScrollTop;
+	})
 });
