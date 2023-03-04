@@ -33,7 +33,7 @@ header
 }
 
 .header {font-family:var(--bold_font);display:grid;grid-template-columns:20vw auto 20vw;z-index:999998;position:fixed;margin: 0;bottom:0;left:0;width:100%;filter:drop-shadow(0 10px 10px rgba(0,0,0,.75));height:var(--header_height);overflow-x: visible;}
-
+.header.hide_header{bottom:calc(0px - var(--header_height));transition: 1;}
 .header #nav_menu,#nav_sub,#nav_sec2 {display:grid;place-items:center;grid-auto-flow:column;width:100%;}
 
 .header #nav_sec1 {color:#424;display:block;position:fixed;top:100vh;left:0;width:100%;height:auto;z-index:0;}
